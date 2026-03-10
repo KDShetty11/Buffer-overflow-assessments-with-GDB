@@ -1,0 +1,8 @@
+# Course materials (should not be in public repo)
+CS647/modules/
+CS647/*.pdf
+CS647/*.docx
+
+# OS files
+.DS_Store
+Thumbs.db
